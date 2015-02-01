@@ -1,0 +1,600 @@
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+, NaN, NaN, , 0, 0,  0,  0, 0, 0, 0, 0, 0, NaN, NaN, 0,  NaN, NaN,  NaN, NaN, NaN
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+, , NaN,  NaN, , , NaN, NaN, , , NaN, NaN, , , NaN, NaN, 0, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+806092, 0.95, 0.83, 3, 0, 0,  0,  0, 0, 0, 25, 16, 0, 0.0, 0.895, 0,  0.0, 0.0,  0.125, 0.08, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 100.0, 3.23,  9.729820670336249, 0.0, 59.776, 3.3505599999999998, 9.26164472809056, 40.0, 13812.0, 436.065, 1347.3945826006316, 40.0, 576.0, 136.55, 62.34537990753542, 25, 175
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+806886, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 4, 1, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.5714285714285714, 0.14285714285714285, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 46.0, 46.0, 46.0, 0.0, 46.0, 46.0, 46.0, 0.0, 0, 7
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+853154, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+853404, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 129.0, 129.0, 129.0, 0.0, 129.0, 129.0, 129.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+853444, 1.0, 0.2857142857142857, 1, 0, 0,  0,  0, 0, 0, 2, 4, 0, 0.0, 0.2857142857142857, 0,  0.0, 0.0,  0.2857142857142857, 0.5714285714285714, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 3.0, 2.5714285714285716,  0.6722916245995043, 0.0, 9.632, 7.492571428571428, 2.9964930812328356, 116.0, 211.0, 155.42857142857142, 23.93901591192143, 50.0, 131.0, 66.71428571428571, 24.823541550221275, 3, 4
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+855543, 1.0, 0.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+5.0, 5.0, 5.0,  0.0, 0.832, 0.832, 0.832, 0.0, 230.0, 230.0, 230.0, 0.0, 46.0, 46.0, 46.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+858216, 1.0, 0.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+5.0, 5.0, 5.0,  0.0, 0.8, 0.8, 0.8, 0.0, 230.0, 230.0, 230.0, 0.0, 46.0, 46.0, 46.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+859044, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.912, 2.912, 2.912, 0.0, 258.0, 258.0, 258.0, 0.0, 129.0, 129.0, 129.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+864978, 0.14285714285714285, 0.14285714285714285, 1, 0, 0,  0,  0, 0, 0, 4, 19, 0, 0.047619047619047616, 0.047619047619047616, 0,  0.047619047619047616, 0.0,  0.19047619047619047, 0.9047619047619048, 0.09523809523809523
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 7.0, 3.142857142857143,  1.202761340554132, 0.0, 8.192, 5.6380952380952385, 2.4092874521296443, 46.0, 504.0, 144.57142857142858, 87.06476660785462, 41.0, 72.0, 44.142857142857146, 6.4208145459361115, 18, 3
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+865357, 1.0, 0.6666666666666666, 1, 0, 0,  0,  0, 0, 0, 2, 1, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.3333333333333333, 0.16666666666666666, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 5.0, 2.3333333333333335,  1.5338163490433243, 0.0, 21.952, 7.2586666666666675, 8.361134352245292, 48.0, 250.0, 115.33333333333333, 77.45772562668787, 48.0, 50.0, 48.666666666666664, 0.7669081745216608, 0, 6
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+866954, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 10, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  0.8333333333333334, 0.08333333333333333, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 126.0, 326.0, 185.16666666666666, 74.01373959577273, 126.0, 326.0, 185.16666666666666, 74.01373959577273, 0, 12
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+873448, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 11, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  0.03741496598639456, 0.003401360544217687, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 126.0, 126.0, 126.0, 0.0, 126.0, 126.0, 126.0, 0.0, 0, 294
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+913414, 0.38461538461538464, 0.38461538461538464, 1, 0, 0,  0,  0, 0, 0, 1, 12, 0, 0.6153846153846154, 0.15384615384615385, 0,  0.15384615384615385, 0.07692307692307693,  0.07692307692307693, 0.9230769230769231, 0.6923076923076923
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 16.0, 6.923076923076923,  4.4909296464540756, 0.0, 14.336, 4.3716923076923075, 4.250474665049785, 49.0, 1207.0, 421.7692307692308, 308.816177959785, 49.0, 75.0, 56.61538461538461, 6.092825147136538, 11, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1769491, 0.7333333333333333, 0.3333333333333333, 2, 0, 0,  0,  0, 0, 0, 4, 3, 0, 0.26666666666666666, 0.3333333333333333, 0,  0.13333333333333333, 0.0,  0.26666666666666666, 0.2, 0.26666666666666666
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 17.0, 5.8,  4.785256358438463, 0.0, 56.128, 14.749866666666668, 19.338002386519452, 95.0, 1780.0, 436.4, 391.56954172844684, 42.0, 197.0, 80.13333333333334, 41.569423895174346, 4, 11
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1769553, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 158, 155, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9937106918238994, 0.9748427672955975, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.168, 2.9550691823899373, 0.060556573244950056, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 159, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1769573, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 1.76, 1.76, 1.76, 0.0, 630.0, 630.0, 630.0, 0.0, 315.0, 315.0, 315.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1769643, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 372, 374, 0, 0.0, 0.0026595744680851063, 0,  0.0, 0.0,  0.9893617021276596, 0.9946808510638298, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.997340425531915,  0.051359285767391225, 0.0, 3.2, 2.9783829787234057, 0.17163143192532784, 104.0, 131.0, 104.07180851063829, 1.386700715719563, 52.0, 131.0, 52.21010638297872, 4.0573835756239065, 375, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1769739, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 25, 25, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.848, 3.072, 2.9529600000000005, 0.0654350963502325, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 25, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1769836, 1.0, 1.0, 4, 0, 0,  0,  0, 0, 0, 1053, 1050, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9905926622765757, 0.9877704609595485, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9981185324553152,  0.0433056021589071, 0.0, 3.168, 2.9554393226716775, 0.14155636025219442, 52.0, 104.0, 103.90216368767639, 2.251891312263169, 52.0, 52.0, 52.0, 0.0, 1063, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1770582, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 315.0, 315.0, 315.0, 0.0, 315.0, 315.0, 315.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1770670, 1.0, 1.0, 3, 0, 0,  0,  0, 0, 0, 335, 323, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9940652818991098, 0.9584569732937686, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.2, 2.9944213649851643, 0.07346747800134183, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 337, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1771123, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 448, 433, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9955555555555555, 0.9622222222222222, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.136, 2.9608533333333393, 0.05969248216395146, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 450, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1771333, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 339, 339, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9970588235294118, 0.9970588235294118, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.2, 2.969976470588235, 0.07090954977504492, 104.0, 104.0, 104.0, 0.0, 52.0, 52.0, 52.0, 0.0, 340, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1771376, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1771400, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 6, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  0.11320754716981132, 0.018867924528301886, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 90.0, 296.0, 128.52830188679246, 23.22459050406614, 90.0, 296.0, 128.52830188679246, 23.22459050406614, 0, 53
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1771441, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 5, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 0.2, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 319.0, 168.6, 57.24660882726785, 131.0, 319.0, 168.6, 57.24660882726785, 0, 5
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1771507, 1.0, 1.0, 3, 0, 0,  0,  0, 0, 0, 553, 514, 0, 0.0, 0.0018018018018018018, 0,  0.0, 0.0,  0.9963963963963964, 0.9261261261261261, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9981981981981982,  0.042364334261735095, 0.0, 3.072, 2.951783783783794, 0.13801003189644956, 96.0, 313.0, 96.39099099099099, 9.193060534796514, 48.0, 313.0, 48.47747747747748, 11.2265485793598, 554, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1771567, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 154, 151, 0, 0.0, 0.006493506493506494, 0,  0.0, 0.0,  1.0, 0.9805194805194806, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9870129870129871,  0.11230081397325234, 0.0, 3.168, 2.9390129870129864, 0.34186803152903034, 48.0, 131.0, 95.91558441558442, 4.752430133595385, 48.0, 131.0, 48.53896103896104, 6.590841559019128, 153, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1771743, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 191, 185, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9947916666666666, 0.9635416666666666, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9947916666666667,  0.0716306989784615, 0.0, 3.168, 2.939166666666665, 0.2206597390114316, 48.0, 96.0, 95.75, 3.4382735509661524, 48.0, 48.0, 48.0, 0.0, 192, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1772016, 1.0, 1.0, 3, 0, 0,  0,  0, 0, 0, 286, 273, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9965156794425087, 0.9512195121951219, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.072, 2.952139372822299, 0.05176332031218214, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 287, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1772078, 0.75, 0.8333333333333334, 1, 0, 0,  0,  0, 0, 0, 2, 7, 0, 0.08333333333333333, 0.25, 0,  0.08333333333333333, 0.0,  0.16666666666666666, 0.5833333333333334, 0.08333333333333333
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 12.0, 2.3333333333333335,  2.8482647193813255, 0.0, 6.016, 1.0266666666666666, 1.8046911062693323, 46.0, 793.0, 176.5, 195.16133214791122, 46.0, 315.0, 95.0, 85.44822954977677, 3, 9
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1772352, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 43, 43, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.784, 3.104, 2.9477209302325584, 0.06106076321253478, 104.0, 104.0, 104.0, 0.0, 52.0, 52.0, 52.0, 0.0, 43, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1772536, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 220, 219, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.990990990990991, 0.9864864864864865, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.04, 2.9458738738738717, 0.05293431961024316, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 222, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1772615, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 405, 404, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9975369458128078, 0.9950738916256158, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.784, 3.072, 2.951408866995076, 0.05746867649518714, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 406, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1772703, 1.0, 0.6666666666666666, 1, 0, 0,  0,  0, 0, 0, 3, 3, 0, 0.0, 0.6666666666666666, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 5.0, 2.3333333333333335,  1.387777332977422, 0.0, 1.024, 0.3413333333333333, 0.35527099724222, 230.0, 315.0, 286.6666666666667, 29.490268325770206, 46.0, 315.0, 225.33333333333334, 93.32802564273162, 0, 3
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1772783, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 102, 101, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.9901960784313726, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.848, 3.168, 2.9785098039215696, 0.0686446314934006, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 102, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1773312, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 546, 512, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9963503649635036, 0.9343065693430657, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9945255474452555,  0.07361262501202957, 0.0, 3.072, 2.9501897810219027, 0.22844024628264795, 48.0, 96.0, 95.73722627737226, 3.533406000577416, 48.0, 48.0, 48.0, 0.0, 548, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1773549, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 308, 296, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9967637540453075, 0.9579288025889967, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.784, 3.072, 2.9559093851132685, 0.05648999020284123, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 309, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1773608, 1.0, 0.9, 2, 0, 0,  0,  0, 0, 0, 9, 2, 0, 0.0, 0.9, 0,  0.0, 0.0,  0.9, 0.2, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 5.0, 1.4,  1.0975050153668335, 0.0, 0.896, 0.0896, 0.24584112344217074, 131.0, 345.0, 253.1, 77.90072584670384, 46.0, 345.0, 234.7, 96.27999055499782, 0, 10
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1773983, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1774273, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 114, 113, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.9912280701754386, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.136, 2.9647719298245634, 0.059419720569977075, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 114, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1774824, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 56, 56, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.072, 2.959428571428572, 0.054856834376374, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 56, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1774921, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 70, 70, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.072, 2.950857142857142, 0.05183133666500536, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 70, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1775566, 1.0, 1.0, 3, 0, 0,  0,  0, 0, 0, 552, 517, 0, 0.0, 0.005415162454873646, 0,  0.0, 0.0,  0.9963898916967509, 0.9332129963898917, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.983754512635379,  0.1262276548587916, 0.0, 3.168, 2.9230324909747374, 0.38213348962306803, 46.0, 315.0, 95.99819494584838, 10.759648364125331, 46.0, 315.0, 48.77797833935018, 12.33690366691319, 550, 4
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1775764, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1775867, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 351, 339, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9943342776203966, 0.9603399433427762, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9971671388101984,  0.053072326371189686, 0.0, 3.136, 2.9470821529745015, 0.16561341066416704, 48.0, 96.0, 95.86402266288952, 2.5474716658171044, 48.0, 48.0, 48.0, 0.0, 353, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1775955, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 2, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 0.5, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1776509, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 176, 173, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9943502824858758, 0.9774011299435028, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9943502824858756,  0.07454403524058242, 0.0, 3.072, 2.9342372881355927, 0.22836127474192228, 48.0, 96.0, 95.72881355932203, 3.578113691547957, 48.0, 48.0, 48.0, 0.0, 177, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1776966, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1777002, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 142, 140, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.9859154929577465, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.848, 3.072, 2.964056338028167, 0.056351508463776685, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 142, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1777112, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 40, 40, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.848, 3.008, 2.951200000000001, 0.04198545000402731, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 40, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1777480, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 170, 170, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.988235294117647,  0.10731127475786523, 0.0, 3.168, 2.91821176470588, 0.3223172847181015, 52.0, 104.0, 103.38823529411765, 5.580186287408994, 52.0, 52.0, 52.0, 0.0, 170, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1777648, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1777911, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 7, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  0.7777777777777778, 0.1111111111111111, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 315.0, 211.66666666666666, 81.45563262472263, 131.0, 315.0, 211.66666666666666, 81.45563262472263, 0, 9
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1777971, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 168, 167, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.9940476190476191, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.104, 2.9579047619047607, 0.05616619334522723, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 168, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1777985, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 264, 256, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9962264150943396, 0.9660377358490566, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.136, 2.9563169811320726, 0.056301658707275604, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 265, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1778970, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 2, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 0.5, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1779044, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 244, 242, 0, 0.0, 0.016260162601626018, 0,  0.0, 0.0,  0.991869918699187, 0.983739837398374, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.983739837398374,  0.1261036914365298, 0.0, 3.168, 2.9104390243902416, 0.37908750983964107, 104.0, 305.0, 105.14634146341463, 13.071705948987164, 52.0, 305.0, 53.99186991869919, 18.179492651700997, 242, 4
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1779225, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 202, 196, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.9702970297029703, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.995049504950495,  0.06960051255269924, 0.0, 3.168, 2.9457425742574266, 0.21456287015431746, 48.0, 96.0, 95.76237623762377, 3.340824602529565, 48.0, 48.0, 48.0, 0.0, 202, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1779351, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 617, 572, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9951612903225806, 0.9225806451612903, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9967741935483871,  0.05580754866828671, 0.0, 3.168, 2.9574193548387195, 0.1793694109912231, 48.0, 96.0, 95.84516129032258, 2.6787623360777624, 48.0, 48.0, 48.0, 0.0, 620, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1779435, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 8, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  0.7272727272727273, 0.09090909090909091, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 315.0, 345.0, 326.27272727272725, 12.685143991799633, 315.0, 345.0, 326.27272727272725, 12.685143991799633, 0, 11
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1779744, 0.5, 0.0, 1, 0, 0,  0,  0, 0, 0, 1, 8, 0, 0.5, 0.5714285714285714, 0,  0.07142857142857142, 0.0,  0.07142857142857142, 0.5714285714285714, 0.5
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+5.0, 6.0, 5.428571428571429,  0.4437283054431642, 0.512, 5.536, 2.3771428571428572, 1.437256178603459, 280.0, 502.0, 380.64285714285717, 85.42333519598128, 56.0, 83.0, 69.0, 10.870680063065945, 7, 7
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1780126, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 2, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 0.5, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 305.0, 315.0, 310.0, 3.5355339059327378, 305.0, 315.0, 310.0, 3.5355339059327378, 0, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1780139, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1780172, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 4, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 0.25, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 126.0, 126.0, 126.0, 0.0, 126.0, 126.0, 126.0, 0.0, 0, 4
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1780567, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 86, 85, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.9883720930232558, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.072, 2.9614883720930236, 0.048911516534942336, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 86, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1780794, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1780844, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 2, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 0.5, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 315.0, 315.0, 315.0, 0.0, 315.0, 315.0, 315.0, 0.0, 0, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1781233, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 55, 55, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.072, 2.959709090909092, 0.061729426291789354, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 55, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1781433, 1.0, 0.8611111111111112, 3, 0, 0,  0,  0, 0, 0, 11, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  0.3055555555555556, 0.027777777777777776, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 6.0, 1.8333333333333333,  1.2726270378936209, 0.0, 38.4, 5.259555555555555, 8.81311132706942, 95.0, 1632.0, 563.8888888888889, 363.1141688143282, 95.0, 487.0, 320.30555555555554, 77.190151183306, 0, 36
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1781499, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 46.0, 46.0, 46.0, 0.0, 46.0, 46.0, 46.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1781527, 1.0, 1.0, 3, 0, 0,  0,  0, 0, 0, 611, 613, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9918831168831169, 0.9951298701298701, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9902597402597402,  0.09801944256234385, 0.0, 3.168, 2.9272207792207867, 0.2980969674275709, 52.0, 104.0, 103.49350649350649, 5.097011013241879, 52.0, 52.0, 52.0, 0.0, 616, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1781858, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1782037, 1.0, 0.7857142857142857, 1, 0, 0,  0,  0, 0, 0, 3, 8, 0, 0.0, 0.2857142857142857, 0,  0.0, 0.0,  0.21428571428571427, 0.5714285714285714, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 3.0, 1.5714285714285714,  0.7488787710052573, 0.0, 8.032, 0.8777142857142856, 1.6397605306406549, 58.0, 315.0, 121.35714285714286, 73.25437095862986, 48.0, 315.0, 85.92857142857143, 65.5747087326257, 3, 11
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1782242, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 8, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  0.7272727272727273, 0.09090909090909091, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 90.0, 300.0, 169.8181818181818, 72.61924696888897, 90.0, 300.0, 169.8181818181818, 72.61924696888897, 0, 11
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1782601, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 238, 229, 0, 0.0, 0.008403361344537815, 0,  0.0, 0.0,  1.0, 0.9621848739495799, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9915966386554622,  0.09062163969025554, 0.0, 3.104, 2.9324369747899164, 0.2738575480210663, 96.0, 315.0, 97.0672268907563, 14.204926736431103, 48.0, 315.0, 49.470588235294116, 17.903433524369056, 236, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1782978, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 136, 131, 0, 0.0, 0.014705882352941176, 0,  0.0, 0.0,  1.0, 0.9632352941176471, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9852941176470589,  0.1198723542472054, 0.0, 3.104, 2.9101176470588235, 0.3581043269049655, 96.0, 134.0, 96.53676470588235, 4.379082885036891, 48.0, 134.0, 49.24264705882353, 10.130827274439492, 134, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1783526, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 317, 316, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9968553459119497, 0.9937106918238994, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9937106918238994,  0.07887273965046837, 0.0, 3.168, 2.958289308176101, 0.2452226254696169, 52.0, 104.0, 103.67295597484276, 4.101382461824355, 52.0, 52.0, 52.0, 0.0, 318, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1783617, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 190, 184, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.968421052631579, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.784, 3.136, 2.949726315789473, 0.06851663346968018, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 190, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1783656, 0.0, 0.28854625550660795, 2, 0, 0,  0,  0, 0, 0, 14, 447, 0, 0.6960352422907489, 0.36784140969163, 0,  0.36123348017621143, 0.0,  0.030837004405286344, 0.9845814977973568, 0.6960352422907489
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 482.0, 13.63215859030837,  33.460700536993265, 0.0, 35.328, 9.387207048458164, 6.636225903661621, 41.0, 29201.0, 1567.0396475770924, 3183.4178601758804, 40.0, 436.0, 83.84361233480176, 71.30694326280604, 454, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1783730, 1.0, 0.9971910112359551, 2, 0, 0,  0,  0, 0, 0, 355, 343, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9971910112359551, 0.9634831460674157, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 3.0, 2.0,  0.07473364119240193, 0.0, 3.072, 2.94696629213483, 0.18700215367424688, 48.0, 144.0, 96.0, 3.5872147772352925, 48.0, 48.0, 48.0, 0.0, 356, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1783951, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 28, 28, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.072, 2.948571428571429, 0.06611893379879397, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 28, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1784437, 0.016722408026755852, 0.6822742474916388, 2, 0, 0,  0,  0, 0, 0, 9, 32, 0, 0.026755852842809364, 0.14715719063545152, 0,  0.016722408026755852, 0.010033444816053512,  0.030100334448160536, 0.10702341137123746, 0.03678929765886288
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 109.0, 7.270903010033445,  13.179664228447942, 0.0, 60.672, 8.598688963210703, 17.476860135310996, 44.0, 10443.0, 496.1438127090301, 1118.8073059017006, 40.0, 147.0, 51.23745819397993, 19.55783525478652, 297, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1784466, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 117, 117, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.168, 2.9584957264957263, 0.06583011008495654, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 117, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1785057, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 223, 212, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.9506726457399103, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9955156950672646,  0.06665067921871981, 0.0, 3.104, 2.9524663677130025, 0.20548697259772516, 48.0, 96.0, 95.7847533632287, 3.199232602498552, 48.0, 48.0, 48.0, 0.0, 223, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1785903, 1.0, 1.0, 3, 0, 0,  0,  0, 0, 0, 73, 73, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.072, 2.9391780821917792, 0.05012299693444752, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 73, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1786113, 0.0, 0.0, 1, 0, 0,  0,  0, 0, 0, 1, 4, 0, 1.0, 0.25, 0,  0.25, 0.0,  0.25, 1.0, 1.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+5.0, 8.0, 5.75,  1.125, 0.416, 5.472, 1.6880000000000002, 1.8920300678841704, 268.0, 394.0, 323.75, 41.35846430229783, 49.0, 69.0, 56.75, 5.813209335451269, 4, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1786149, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 74, 73, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 0.9864864864864865, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.104, 2.9582702702702717, 0.0567935341991071, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 74, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1786174, 1.0, 1.0, 3, 0, 0,  0,  0, 0, 0, 804, 723, 0, 0.0, 0.0, 0,  0.0, 0.0,  0.9913686806411838, 0.8914919852034525, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 2.0, 1.9963008631319359,  0.056958302251894834, 0.0, 3.072, 2.942421701602969, 0.17878737518225377, 48.0, 96.0, 95.82244143033292, 2.733998508090952, 48.0, 48.0, 48.0, 0.0, 811, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1786275, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 2, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 0.5, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 126.0, 126.0, 126.0, 0.0, 126.0, 126.0, 126.0, 0.0, 0, 2
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1786433, 1.0, 1.0, 2, 0, 0,  0,  0, 0, 0, 60, 60, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.072, 2.941333333333333, 0.0521142704808073, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 60, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1786530, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 69, 69, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.104, 2.963478260869566, 0.06251210853917943, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 69, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1786593, 0.0, 0.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 1.0, 1.0, 0,  1.0, 0.0,  1.0, 1.0, 1.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+11.0, 11.0, 11.0,  0.0, 13.664, 13.664, 13.664, 0.0, 745.0, 745.0, 745.0, 0.0, 67.0, 67.0, 67.0, 0.0, 1, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1786656, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 6, 3, 0, 0.0, 1.0, 0,  0.0, 0.0,  0.4, 0.2, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 126.0, 126.0, 126.0, 0.0, 126.0, 126.0, 126.0, 0.0, 0, 15
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1787017, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 129.0, 129.0, 129.0, 0.0, 129.0, 129.0, 129.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1787035, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 60, 60, 0, 0.0, 0.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+2.0, 2.0, 2.0,  0.0, 2.816, 3.168, 2.9621333333333335, 0.06875042385612459, 96.0, 96.0, 96.0, 0.0, 48.0, 48.0, 48.0, 0.0, 60, 0
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1787086, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1787346, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 315.0, 315.0, 315.0, 0.0, 315.0, 315.0, 315.0, 0.0, 0, 1
+CMU CALCULATIONS
+ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags
+1787482, 1.0, 1.0, 1, 0, 0,  0,  0, 0, 0, 1, 1, 0, 0.0, 1.0, 0,  0.0, 0.0,  1.0, 1.0, 0.0
+SIGCOMM CALCULATIONS
+ip, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count
+1.0, 1.0, 1.0,  0.0, 0.0, 0.0, 0.0, 0.0, 131.0, 131.0, 131.0, 0.0, 131.0, 131.0, 131.0, 0.0, 0, 1
