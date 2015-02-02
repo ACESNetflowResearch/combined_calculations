@@ -4,6 +4,8 @@ require_relative 'cmu_features'
 require_relative 'sig_features'
 begin
 
+    puts("ip, rt_w/o_ACK, rt_under_3, max_ips_1sub, max_high, max_low, max_cnsc_high, max_cnsc_low, num_uniq_dsts, num_uniq_srcp, avg_srcp/dst, rt_std_flags, rt_over_60, med_pack/dst, rt_std_pttrn, rt_bksctr_pttrn, rt_dst, rt_srcp, rt_bksctr_flags, min_pack, max_pack, mean_pack, std_dev_pack, min_dur, max_dur, mean_dur, std_dev_dur, min_bytes, max_bytes, mean_bytes, std_dev_bytes, min_bpp, max_bpp, mean_bpp, std_dev_bpp, tcp_count, udp_count, label")
+
     #usage ARGS 0 = dec or nov, 1 = 0 or 1 for malicious or benign
     month = ARGV[0]
     label = ARGV[1]
@@ -44,7 +46,7 @@ begin
 
 	   #print in csv format 
 	   
-	   puts("#{ip}, #{c.without_ACK_cnt.to_f/c.total_flows.to_f}, #{c.under_3_packets_cnt.to_f/c.total_flows.to_f}, #{c.subnet_hash.values.sort.last}, #{c.max_high_ports}, #{c.max_low_ports},  #{c.max_consec_high}, #{c.max_consec_low}, #{c.dst_IP_hash.length}, #{c.src_port_hash.length}, #{c.avg_src_ports_per_dst_IP}, #{c.standard_flags_cnt.to_f/c.total_flows.to_f}, #{c.over_60_Bpp_cnt.to_f/c.total_flows.to_f}, #{c.median_packets_per_dst_IP},  #{c.standard_pattern_cnt.to_f/c.total_flows.to_f}, #{c.backscatter_pattern_cnt.to_f/c.total_flows.to_f},  #{c.dst_IP_hash.length.to_f/c.total_flows.to_f}, #{c.src_port_hash.length.to_f/c.total_flows.to_f}, #{c.backscatter_flags_cnt.to_f/c.total_flows.to_f}, #{s.min_packets}, #{s.max_packets}, #{s.packets_total/s.ctr},  #{s.std_packets}, #{s.min_duration}, #{s.max_duration}, #{s.duration_total/s.ctr}, #{s.std_duration}, #{s.min_bytes}, #{s.max_bytes}, #{s.bytes_total/s.ctr}, #{s.std_bytes}, #{s.min_bpp}, #{s.max_bpp}, #{s.bpp_total/s.ctr}, #{s.std_bpp}, #{s.tcp}, #{s.udp}, #{label}")
+	   puts("#{ip[0]}, #{c.without_ACK_cnt.to_f/c.total_flows.to_f}, #{c.under_3_packets_cnt.to_f/c.total_flows.to_f}, #{c.subnet_hash.values.sort.last}, #{c.max_high_ports}, #{c.max_low_ports},  #{c.max_consec_high}, #{c.max_consec_low}, #{c.dst_IP_hash.length}, #{c.src_port_hash.length}, #{c.avg_src_ports_per_dst_IP}, #{c.standard_flags_cnt.to_f/c.total_flows.to_f}, #{c.over_60_Bpp_cnt.to_f/c.total_flows.to_f}, #{c.median_packets_per_dst_IP},  #{c.standard_pattern_cnt.to_f/c.total_flows.to_f}, #{c.backscatter_pattern_cnt.to_f/c.total_flows.to_f},  #{c.dst_IP_hash.length.to_f/c.total_flows.to_f}, #{c.src_port_hash.length.to_f/c.total_flows.to_f}, #{c.backscatter_flags_cnt.to_f/c.total_flows.to_f}, #{s.min_packets}, #{s.max_packets}, #{s.packets_total/s.ctr},  #{s.std_packets}, #{s.min_duration}, #{s.max_duration}, #{s.duration_total/s.ctr}, #{s.std_duration}, #{s.min_bytes}, #{s.max_bytes}, #{s.bytes_total/s.ctr}, #{s.std_bytes}, #{s.min_bpp}, #{s.max_bpp}, #{s.bpp_total/s.ctr}, #{s.std_bpp}, #{s.tcp}, #{s.udp}, #{label}")
 =begin	   
 	   puts("IP: #{ip[0]}")
 	   #cmu
